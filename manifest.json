@@ -1,0 +1,7 @@
+{
+  "name": "Streamer Mode on Go-Live",
+  "version": "1.0.0",
+  "description": "Turns on Streamer Mode when you start a Go Live",
+  "author": "Wolf#4793",
+  "license": "MIT"
+}
